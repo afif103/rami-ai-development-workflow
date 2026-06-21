@@ -38,3 +38,19 @@ AI Automation & Full-Stack Python Engineer
 Zamboanga City, Philippines
 
 Available for remote AI Automation, Python, Full-Stack AI, RAG, AI Developer, and AI-powered SaaS roles.
+
+## License
+
+Copyright © 2026 Rami Afif.
+
+The Rami Afif AI Development Workflow v2.6 is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt this work, including commercially, provided
+appropriate credit is given to Rami Afif and modifications are clearly stated.
+
+Suggested attribution:
+
+> Based on the Rami Afif AI Development Workflow v2.6, designed and documented by Rami Afif.
+
+See [LICENSE.md](LICENSE.md) for the complete licence terms.
