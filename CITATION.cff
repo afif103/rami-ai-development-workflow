@@ -1,1 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this workflow using the information below."
+title: "Rami Afif AI Development Workflow"
+version: "2.6"
+type: software
+date-released: 2026-06-20
+authors:
+
+* family-names: "Afif"
+  given-names: "Rami"
+  repository-code: "https://github.com/afif103/rami-ai-development-workflow"
 
